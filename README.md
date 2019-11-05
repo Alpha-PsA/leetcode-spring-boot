@@ -1,7 +1,7 @@
 leetcode-spring-boot
 ===================
 
-
+[![Build Status](https://github.com/Yusifan520/leetcode-spring-boot/workflows/Java%20CI/badge.svg)](https://github.com/Yusifan520/leetcode-spring-boot)
 [![codecov](https://codecov.io/gh/hatakawas/redlock-spring-boot/branch/master/graph/badge.svg)](https://codecov.io/gh/hatakawas/redlock-spring-boot)
 
 Learn leetcode to improve yourself coding.
